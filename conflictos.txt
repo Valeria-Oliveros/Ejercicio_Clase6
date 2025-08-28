@@ -8,16 +8,12 @@ Primer conflicto:
 Segundo conflicto:
     - Escribir en el mismo archivo, sobre diferentes líneas (PA):
         Solución:
-        - Participante A solucionó el conflicto y quedó solo el contenido de participante A
+        - Participante A solucionó el conflicto y quedaron ambos cambios
 
 Tercer conflicto:
-    - Escribir en el mismo archivo, sobre diferentes líneas (PA):
-        Solución:
-        - Participante A solucionó el conflicto y quedó solo el contenido de participante A
-
-Cuarto conflicto:
     - Escribir en el mismo archivo, sobre la misma líneas (PB):
         Solución:
-        - Participante A solucionó el conflicto y quedó solo el contenido de participante A
+        - Participante A solucionó el conflicto y quedaron ambos cambios, uno en la línea 3 y el otro en la línea 4
+        
 
 
