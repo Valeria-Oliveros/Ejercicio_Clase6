@@ -1,1 +1,23 @@
 Conflictos trabajados:
+
+Primer conflicto:
+    - Escribir en el mismo archivo, sobre diferentes líneas (PB):
+        Solución:
+        - Participante B solucionó el conflicto y quedó solo el contenido de participante B
+
+Segundo conflicto:
+    - Escribir en el mismo archivo, sobre diferentes líneas (PA):
+        Solución:
+        - Participante A solucionó el conflicto y quedó solo el contenido de participante A
+
+Tercer conflicto:
+    - Escribir en el mismo archivo, sobre diferentes líneas (PA):
+        Solución:
+        - Participante A solucionó el conflicto y quedó solo el contenido de participante A
+
+Cuarto conflicto:
+    - Escribir en el mismo archivo, sobre la misma líneas (PB):
+        Solución:
+        - Participante A solucionó el conflicto y quedó solo el contenido de participante A
+
+
